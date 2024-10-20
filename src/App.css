@@ -1,0 +1,43 @@
+.image-gallery img {
+  width: 250px;
+  height: 300px;
+  margin: 10px;
+  border: 5px solid black;
+}
+
+.audio-player audio{
+  margin-top: 20px;
+  width: 400px;
+  margin: 20px;
+}
+
+.video-player video{
+  width: 400px;
+  margin: 10px 10px 10px 10px;
+}
+
+.image-gallery, .audio-player, .video-player{
+  background-color: gray;
+  text-align: center;
+}
+
+div {
+  margin-bottom: 40px;
+}
+
+html{
+  border: 10px solid rgb(109, 107, 107);
+}
+
+h1{
+  text-align: center;
+  font-size: 2.5rem;
+  background-color: gray;
+  padding: 10px 0 10px 0;
+  color: white;
+}
+
+h2{
+  font-size: 2rem;
+  padding-left: 30px;
+}
